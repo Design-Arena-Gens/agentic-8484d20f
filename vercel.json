@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/daily-ltc-report",
+      "schedule": "30 10 * * *"
+    }
+  ]
+}
